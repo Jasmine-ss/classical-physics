@@ -1,6 +1,8 @@
 ---
 theme : "Serif"
 title: "力学入門"
+viewDistance: 3
+mobileViewDistance: 1
 ---
 
 # 力学入門
